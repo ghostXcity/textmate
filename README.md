@@ -1,4 +1,3 @@
-textmate
+init textmate
 ========
-
-https://github.com/textmate/git.tmbundle
+link rel = https://github.com/textmate/git.tmbundle
